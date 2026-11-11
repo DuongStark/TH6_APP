@@ -1,0 +1,9 @@
+{
+  "useEmulators": true,
+  "emulatorHost": "",
+  "apiKey": "demo-api-key",
+  "authDomain": "demo-th5-chat-plus.firebaseapp.com",
+  "projectId": "demo-th5-chat-plus",
+  "appId": "1:123456789:web:th5chatplus",
+  "databaseURL": "https://demo-th5-chat-plus-default-rtdb.firebaseio.com"
+}

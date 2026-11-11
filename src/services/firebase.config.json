@@ -1,0 +1,13 @@
+{
+  "projectId": "may-th5-plus-duongstark",
+  "appId": "1:685216911264:web:cbea3944589884bc111ec5",
+  "storageBucket": "may-th5-plus-duongstark.firebasestorage.app",
+  "apiKey": "AIzaSyClY9nDWMC4AFyCs5DO_oSo4MYvCbbGZMw",
+  "authDomain": "may-th5-plus-duongstark.firebaseapp.com",
+  "messagingSenderId": "685216911264",
+  "projectNumber": "685216911264",
+  "version": "2",
+  "useEmulators": false,
+  "emulatorHost": "",
+  "databaseURL": "https://may-th5-plus-duongstark-default-rtdb.asia-southeast1.firebasedatabase.app"
+}
